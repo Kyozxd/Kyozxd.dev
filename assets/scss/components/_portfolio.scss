@@ -1,0 +1,71 @@
+.portfolio-container {
+  background-color: rgb(0, 0, 0);
+  height: 98%;
+  overflow-y: scroll;
+  position: relative;
+  scroll-snap-type: y mandatory;
+  width: 100%;
+
+  // This is ONLY here because fucking Chrome bugs...
+  background-color: transparent;
+
+  section {
+    align-items: center;
+    display: flex;
+    height: 98%;
+    justify-content: center;
+    scroll-snap-align: start;
+    scroll-snap-destination: 50% 50%;
+    scroll-snap-stop: always;
+    width: 100%;
+  }
+}
+
+.title {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+  text-align: center;
+  color: white;
+  padding-top: 20px;
+  font-size: 150%;
+}
+
+.image-title {
+  height: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 340px;
+}
+
+
+.footer-container {
+  background-color: rgb(255, 255, 255);
+  height: 2%;
+  overflow-y: scroll;
+  position: bottom;
+  scroll-snap-type: y mandatory;
+  width: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+  text-align: center;
+  text-decoration: none;
+
+  // This is ONLY here because fucking Chrome bugs...
+  background-color: transparent;
+
+  section {
+    align-items: center;
+    display: flex;
+    height: 2%;
+    justify-content: center;
+    scroll-snap-align: start;
+    scroll-snap-destination: 50% 50%;
+    scroll-snap-stop: always;
+    width: 100%;
+    text-decoration: none;
+  }
+  a:link {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+  }
+}

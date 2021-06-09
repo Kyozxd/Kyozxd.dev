@@ -1,0 +1,22 @@
+html, body {
+  margin: 0 auto;
+  height: 100%;
+}
+
+input[type="checkbox"], input[type="radio"] {
+  height: auto;
+  padding: initial;
+}
+
+input, textarea, select, fieldset {
+  margin-bottom: 1rem;
+}
+
+label, legend {
+  display: block;
+  font-weight: 600;
+  margin-bottom: .5rem;
+}
+
+form { margin-bottom: 0; }
+
