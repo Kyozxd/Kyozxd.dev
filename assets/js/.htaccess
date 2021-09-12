@@ -1,4 +1,0 @@
-<Files *.js>
-Order Deny,Allow
-Deny from All
-</Files>
