@@ -1,4 +1,4 @@
-# Kyozxd.xyz
+# Kyozxd.dev
 
 This is my personal website files for kyozxd.dev
 
