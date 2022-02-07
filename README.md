@@ -1,19 +1,14 @@
 # Kyozxd.dev
 
-This is my personal website files for kyozxd.dev
+This is simply my source code from my production website at https://kyozxd.dev, This is built off of [AlexFlipnotes ModestaCSS](https://github.com/AlexFlipnote/Modesta)
 
-This will be up to date with the current site at kyozxd.dev, you can get live updates for this in my discord.
+View;
 
-This sites design comes from AlexFlipnotes ModestaCSS framework.
-
-# Check out my discord
-
-Check out my discord for a chill place to hangout and get info on what im currently working on and chat with me. I have some buddies that stream and make content so join us there!
-https://discord.kyozxd.dev
+![Website View](https://ss.kyozxd.dev/files/IdEiop.gif)
 
 
-# Support me for what I do!
+# Supporting
 
-Support me and gain special perks in the discord and keep me doing what I'm doing!
+You can support me with the link below if you are interested
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B167CJ5)
